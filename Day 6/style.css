@@ -1,0 +1,40 @@
+.cls1{
+    text-align: center;
+    color :blue;
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+#brbkcl{
+    background-color: chartreuse;
+}
+#tr1{
+    background-color: plum;
+}
+#id1{
+    background-color: aqua;
+}
+#id2{
+    background-color: aqua;
+}
+#id3{
+    background-color: aqua;
+}
+#id4{
+    background-color: aqua;
+}
+#id5{
+    background-color: aqua;
+}
+#id6{
+    background-color: aqua;
+}
+#id7{
+    background-color: aqua;
+}
+.tabdiv{
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+    <student rno="1">
+    <firstname>Rohan</firstname>
+            <lastname>Sane</lastname>
+        <marks>80</marks>
+    </student>
+    <student rno="2">
+        <firstname>Mohan</firstname>
+        <lastname>Kale</lastname>
+        <marks>95</marks>
+    </student>
+</class>
